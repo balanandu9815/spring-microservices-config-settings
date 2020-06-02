@@ -1,4 +1,4 @@
-**Spring Boot Cloud Native Microservices COnfiguration Settings**
+**Spring Boot Cloud Native Microservices Configuration Settings**
 
 This repository holds configuration settings for the following microservices.
 
