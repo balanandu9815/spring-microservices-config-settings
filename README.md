@@ -2,5 +2,8 @@
 
 This repository holds configuration settings for the following microservices.
 
-- restaurant
+- note
+- category
+- reminder
 - user
+- user Authentication
